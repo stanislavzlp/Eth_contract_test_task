@@ -1,4 +1,4 @@
-# Eth_contract_test_task
+# Eth Contract Test Task
 
 ## Тестовое задание
 
