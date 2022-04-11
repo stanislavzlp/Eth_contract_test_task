@@ -1,0 +1,17 @@
+# Pycharms ignores
+.idea
+__pycache__/
+
+# Pythons and Djangos ignores
+*.log
+*.pot
+*.pyc
+eicoc/db.sqlite3
+
+# Secrets
+eth_test_project/.env
+
+
+# Envs ignores
+env
+db.sqlite3
